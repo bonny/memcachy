@@ -1,7 +1,6 @@
 
-## Tagline
 
-memcache or memcached autodetect object cache backend for wordpress
+*memcache or memcached autodetect object cache backend for wordpress*
 
 ## Description
 
