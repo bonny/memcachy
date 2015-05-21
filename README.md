@@ -21,12 +21,14 @@ If your memcached server is running on localhost/127.0.0.1 and port 11211 then y
 
 If your server is on another server/ip number then add a snippet like this to your `wp-config.php`:
 
-    $memcached_servers = array(
-        array(
-            '127.0.0.1',
-            11211
-        )
-    );
+```php
+$memcached_servers = array(
+    array(
+        '127.0.0.1',
+        11211
+    )
+);
+```
 
 
 ## Todo
