@@ -4,7 +4,7 @@
 Plugin Name: Memcachy
 Description: Memcache or Memcached backend for the WP Object Cache
 Version: 0.1
-Plugin URI: http://wordpress.org/extend/plugins/memcachy/
+Plugin URI: https://github.com/bonny/memcachy/
 Author: Pär Thernström
 
 Install the object-cache*-files this file to wp-content/
