@@ -17,6 +17,11 @@ Uses code from https://github.com/tollmanz/wordpress-pecl-memcached-object-cache
         )
     );
 
+## Installation
+
+It's an object cache, not a plugin. You know what to do.
+
+(Install the object-cache*-files to wp-content/.)
 
 ## Todo
 
