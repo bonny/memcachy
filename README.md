@@ -17,7 +17,7 @@ It's an object cache, not a plugin. You know what to do.
 
 ## Configuration
 
-If your memcached server is running on localhost/127.0.0.1 and port 11211 then you don't need any config att all. Hooray!
+If your memcached server is running on localhost/127.0.0.1 and port 11211 then you don't need any config at all. Hooray!
 
 If your server is on another server/ip number then add a snippet like this to your `wp-config.php`:
 
