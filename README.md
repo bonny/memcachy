@@ -30,6 +30,11 @@ $memcached_servers = array(
 );
 ```
 
+## History
+
+- 29 april 2016: Update Memcached Object Cache to version 3
+- 2015: First version
+
 
 ## Todo
 
